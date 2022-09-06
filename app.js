@@ -24,6 +24,7 @@ let tableLaser = [];
 var iMob = 0;
 var iLaser = 0;
 var lasercd = true;
+var game_status = false;
 
 function preload() {
     this.load.image('main',"images/Fenm_Rqlakats.png");
